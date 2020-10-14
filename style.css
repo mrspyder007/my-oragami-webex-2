@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+}
+.heading{
+    background-color: aqua;
+    justify-content:center ;
+    padding-left: 50%;
+}
+p{
+    font-size:18px ;
+   color:rebeccapurple ;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
